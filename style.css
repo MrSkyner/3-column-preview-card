@@ -62,6 +62,7 @@ body {
     .box1 button:hover {
         transition: 0.5s;
         font-size: 21px;
+        background-color: transparent;
         width: 210px;
         height: 70px;
         cursor: pointer;
