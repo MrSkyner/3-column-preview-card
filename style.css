@@ -245,12 +245,12 @@ body {
     .box1 p {
         color: hsla(0, 0%, 100%, 0.75);
         font-family: 'Lexend Deca', 'Big Shoulders Display', sans-serif;
-        font-size: 23px;
+        font-size: 24px;
         width: 30vh;
     }
 
     .box1 button {
-        margin-top: 35%;
+        margin-top: 20%;
         border: 1px solid;
         border-color: white;
         border-radius: 20px;
@@ -306,12 +306,12 @@ body {
     .box2 p {
         color: hsla(0, 0%, 100%, 0.75);
         font-family: 'Lexend Deca', 'Big Shoulders Display', sans-serif;
-        font-size: 23px;
+        font-size: 24px;
         width: 30vh;
     }
 
     .box2 button {
-        margin-top: 30%;
+        margin-top: 18%;
         place-content: center;
         border: 1px solid;
         border-color: hsl(0, 0%, 100%);
