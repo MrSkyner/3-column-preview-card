@@ -67,12 +67,6 @@ body {
         cursor: pointer;
     }
 
-    .box1 a {
-        text-decoration: none;
-        font-family: 'Lexend Deca', 'Big Shoulders Display', sans-serif;
-        color: hsl(31, 77%, 52%);
-    }
-
     .box2 {
         border: 1px solid;
         border-color: hsl(184, 100%, 22%);
@@ -125,12 +119,6 @@ body {
         cursor: pointer;
     }
 
-    .box2 a {
-        text-decoration: none;
-        font-family: 'Lexend Deca', 'Big Shoulders Display', sans-serif;
-        color: hsl(184, 100%, 22%);
-    }
-
     .box3 {
         border: 1px solid;
         border-bottom-left-radius: 10px;
@@ -176,12 +164,6 @@ body {
         width: 200px;
         height: 60px;
 
-    }
-
-    .box3 a {
-        text-decoration: none;
-        font-family: 'Lexend Deca', 'Big Shoulders Display', sans-serif;
-        color: hsl(179, 100%, 13%);
     }
     
     .attribution {
